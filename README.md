@@ -15,5 +15,5 @@
       - The pre-condition for this is that the System is not only safe but works.
       - The most important subfactor for this is Impact 💥, meaning that the technology is "disruptive" and in essence exploits existing system inefficiences.
       - The second subfactor would be functional diversity in the sense that not only Impact is maximized for one specific set of inefficiencies (which can be exploited together) but as many as possible at the same time.
-      - The third subfactor would be multiplicity and generalizatino in the sense that the simplest concepts are isolated and repeatedly applied to tackle above.
+      - The third subfactor would be multiplicity and generalization in the sense that the simplest concepts are isolated and repeatedly applied to tackle above.
     - The third priority would be maximizing Optimization. Some systems heavily depend on optimization as their impact factor, but these are generally of lower worth than other non-optimization dependent high impact factor systems.
