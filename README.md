@@ -2,7 +2,7 @@
 
 ### Personal Strategy
 - Re-read these notes daily until the message has not settled in permanently.
-- No emotions nor emotional reactions in relation to anything for that matter.
+- No emotions nor emotional reactions in relation to anything job related.
 - Entertainment is emotion, thus do not entertain while working for the reason that this is an emotional action.
 - Think before doing anything. Segment things into actions and processes and think before any two actions. Consider thinking as letting possibilities bubble up, the more of them you allow to appear the more variety of options you may choose from.
 
